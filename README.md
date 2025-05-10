@@ -123,19 +123,6 @@ Results:
 
 This project showcases how traditional and deep learning-based techniques can be applied to real-world computer vision problems using a standardized dataset.
 
-📁 Repository Structure (Suggested)
-
-.
-├── data/
-├── src/
-│   ├── preprocessing/
-│   ├── feature_extraction/
-│   ├── classification/
-│   └── detection/
-├── results/
-├── models/
-└── README.md
-
 ---
 
 📘 References
