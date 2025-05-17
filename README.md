@@ -10,8 +10,8 @@ Dataset: PASCAL VOC 2007
 This project implements core computer vision tasks including:
 
 - Image Classification
-- Object Recognition
 - Object Detection
+- Object Recognition
 
 Using the PASCAL VOC 2007 dataset, we explore image processing, feature extraction, and model evaluation techniques.
 
