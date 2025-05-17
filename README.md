@@ -68,7 +68,7 @@ Model:
 - Support Vector Machine (SVM) with linear kernel
 
 Input:
-- HOG or SIFT + BoVW features
+- HOG or SIFT
 
 Output:
 - Object class (e.g., car, dog, person)
