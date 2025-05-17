@@ -3,8 +3,6 @@
 
 Subject: Machine Vision  
 Dataset: PASCAL VOC 2007  
-Team Size: 5 Members  
-
 ---
 
 📌 Project Overview
